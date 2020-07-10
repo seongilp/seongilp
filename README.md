@@ -16,18 +16,16 @@
 Seongil Park, @seongilp
 
 🔭 Career
- * Received the B.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2016.
+ * Received the B.S. degrees, in Computer Engineering from Seoul National University of Technology, Seoul, Korea, in 2010.
  * Received the M.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2018.
- * Joined the SUALAB. ,Seoul, Korea, as a Deep Learning Research Engineer, in 2018.
- * SUALAB was acquired by Cognex in 2019.10. So, I am currently working at Cognex.
+ * Joined the Orange Life Insurance Korea. ,Seoul, Korea, as a System Engineer, in 2011.
 
 🌱 Interest
+ * Kubernetes
+ * Machine Learning
 
 👯 Side Jobs & Hobby
-TFUG(TensorFlow KR Facebook Group) Organizer
-SNUAI Study Organizer
-TFKR PR-12 Study Season 3 Presenter
-Research Blog (Korean)
+ * Linux Foundation Authorized Instructor
 
 📫 How to reach me
  * email: zihado@gmail.com
