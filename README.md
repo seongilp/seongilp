@@ -9,8 +9,8 @@
 ----
 🔭 Career
  * Received the B.S. degrees, in Computer Engineering from Seoul National University of Technology, Seoul, Korea, in 2010.
- * Received the M.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2018.
- * Joined the Orange Life Insurance Korea. ,Seoul, Korea, as a System Engineer, in 2011.
+ * Received the M.S. degrees, in Digital Finance Engineering from Korea University, Seoul, Korea, in 2022.
+ * Joined the Orange Life Insurance Korea. , Seoul, Korea, as a System Engineer, in 2011.
 
 🌱 Interest
  * Kubernetes
