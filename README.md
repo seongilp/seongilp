@@ -8,8 +8,8 @@
 - ⚡ Fun fact: ...
 ----
 🔭 Career
+ * Studying the M.S. degrees, in Digital Finance Engineering from Korea University, Seoul, Korea, in 2022.
  * Received the B.S. degrees, in Computer Engineering from Seoul National University of Technology, Seoul, Korea, in 2010.
- * Received the M.S. degrees, in Digital Finance Engineering from Korea University, Seoul, Korea, in 2022.
  * Joined the Orange Life Insurance Korea. , Seoul, Korea, as a System Engineer, in 2011.
 
 🌱 Interest
