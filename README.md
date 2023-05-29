@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongilp)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working at Kakaopay Insurance as a security system manager
+- 🔭 I’m currently working at Toss Bank as a security engineer
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
