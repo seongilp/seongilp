@@ -24,4 +24,4 @@
 📫 How to reach me
  * email: zihado@gmail.com
 
-[![Automatic Lotto Buy](https://github.com/seongilp/dhlottery-api/actions/workflows/action.yml/badge.svg)](https://github.com/seongilp/dhlottery-api/actions/workflows/action.yml)
+[![Buy weekly Lotto645](https://github.com/seongilp/dhlottery-api/actions/workflows/buyLotto645.yml/badge.svg)](https://github.com/seongilp/dhlottery-api/actions/workflows/buyLotto645.yml)
